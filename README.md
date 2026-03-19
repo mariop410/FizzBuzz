@@ -1,1 +1,3 @@
 # FizzBuzz
+## What is this project?
+This is a program that prints out every number from 1-100 but for each number if the number is divisible by just 3 it will print out the word "Fizz" instead of the number; if the number is divisible by just 5 it will print out the word "Buzz" instead of the number; if the number is divisible by both 3 and 5 it will print out the word "FizzBuzz" instead of the number.
